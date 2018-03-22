@@ -3,12 +3,12 @@ $('img').click(function (e){
     var string;
     var num;
 
-    if (name<22) {
-        num=21+parseInt(name);
+    if (name<29) {
+        num=28+parseInt(name);
     } else {
-        num= parseInt(name)- 21;
+        num= parseInt(name)- 28;
     }
-    string="images/element"+num+".png";
+    string="images/Element"+num+".png";
     $(this).attr('src', string);
     $(this).attr('id',num);
     });
