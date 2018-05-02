@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c999744-207d-454a-8a07-5cd9e4dab24a" name="Default" comment="" />
+    <list default="true" id="2c999744-207d-454a-8a07-5cd9e4dab24a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/projects/test/vr_basic.html" afterPath="$PROJECT_DIR$/projects/test/vr_basic.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +17,12 @@
       <file leaf-file-name="vr_basic.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/test/vr_basic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="238" column="54" lean-forward="false" selection-start-line="238" selection-start-column="54" selection-end-line="238" selection-end-column="54" />
-              <folding />
+            <state relative-caret-position="223">
+              <caret line="94" column="45" lean-forward="false" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
+              <folding>
+                <element signature="e#2219#2226#1" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,12 +160,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524615631310</updated>
       <workItem from="1524615632822" duration="543000" />
-      <workItem from="1525219885703" duration="4868000" />
+      <workItem from="1525219885703" duration="5061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5411000" />
+    <option name="totallyTimeSpent" value="5604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -278,9 +284,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/test/vr_basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="238" column="54" lean-forward="false" selection-start-line="238" selection-start-column="54" selection-end-line="238" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="223">
+          <caret line="94" column="45" lean-forward="false" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
+          <folding>
+            <element signature="e#2219#2226#1" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
