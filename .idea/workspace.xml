@@ -14,7 +14,7 @@
       <file leaf-file-name="vr_basic.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/test/vr_basic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="200">
               <caret line="238" column="54" lean-forward="false" selection-start-line="238" selection-start-column="54" selection-end-line="238" selection-end-column="54" />
               <folding />
             </state>
@@ -154,12 +154,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524615631310</updated>
       <workItem from="1524615632822" duration="543000" />
-      <workItem from="1525219885703" duration="4263000" />
+      <workItem from="1525219885703" duration="4868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4806000" />
+    <option name="totallyTimeSpent" value="5411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -278,7 +278,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/test/vr_basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="200">
           <caret line="238" column="54" lean-forward="false" selection-start-line="238" selection-start-column="54" selection-end-line="238" selection-end-column="54" />
           <folding />
         </state>
